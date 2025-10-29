@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+	<file source-language="en" datatype="plaintext" original="messages">
+		<body>
+			<trans-unit id="tt_content.CType.dialog_overlay.title">
+				<source>Dialog overlay (once)</source>
+				<target>Dialog Overlay (einmalig)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.CType.dialog_overlay.description">
+				<source>Shows a modal HTML5 &lt;dialog&gt; that opens once per visitor via cookie.</source>
+				<target>Zeigt ein modales HTML5-&lt;dialog&gt;, das pro Besucher via Cookie nur einmal geöffnet wird.</target>
+			</trans-unit>
+
+			<trans-unit id="tt_content.cookie_lifetime_days">
+				<source>Cookie lifetime (days)</source>
+				<target>Cookie-Gültigkeit (Tage)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.cookie_name">
+				<source>Cookie name (optional)</source>
+				<target>Cookie-Name (optional)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.auto_open">
+				<source>Auto open on first visit</source>
+				<target>Beim ersten Besuch automatisch öffnen</target>
+			</trans-unit>
+			<trans-unit id="tt_content.auto_open.item0">
+				<source>Open automatically</source>
+				<target>Automatisch öffnen</target>
+			</trans-unit>
+			<trans-unit id="tt_content.show_close_button">
+				<source>Show close button</source>
+				<target>Schließen-Button anzeigen</target>
+			</trans-unit>
+			<trans-unit id="tt_content.close_button_label">
+				<source>Close button label</source>
+				<target>Schließen-Button Beschriftung</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

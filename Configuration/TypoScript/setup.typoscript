@@ -1,0 +1,12 @@
+tt_content.dialog_overlay =< lib.contentElement
+tt_content.dialog_overlay {
+  templateName = DialogOverlay
+  templateRootPaths {
+    10 = EXT:dialog_overlay/Resources/Private/Templates/Content
+  }
+  dataProcessing {
+    100 = B13\Container\DataProcessing\ContainerProcessor
+    # Ohne colPos-Angabe werden alle Spalten als children_<colPos> bereitgestellt.
+    # Für eine einzelne Spalte reicht das Default-Processing.
+  }
+}

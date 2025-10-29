@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+	<file source-language="en" datatype="plaintext" original="messages" target-language="de">
+		<body>
+			<trans-unit id="tt_content.CType.dialog_overlay.title">
+				<source>Dialog overlay (once)</source>
+			</trans-unit>
+			<trans-unit id="tt_content.CType.dialog_overlay.description">
+				<source>Shows a modal HTML5 &lt;dialog&gt; that opens once per visitor via cookie.</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.cookie_lifetime_days">
+				<source>Cookie lifetime (days)</source>
+			</trans-unit>
+			<trans-unit id="tt_content.cookie_name">
+				<source>Cookie name (optional)</source>
+			</trans-unit>
+			<trans-unit id="tt_content.auto_open">
+				<source>Auto open on first visit</source>
+			</trans-unit>
+			<trans-unit id="tt_content.auto_open.item0">
+				<source>Open automatically</source>
+			</trans-unit>
+			<trans-unit id="tt_content.show_close_button">
+				<source>Show close button</source>
+			</trans-unit>
+			<trans-unit id="tt_content.close_button_label">
+				<source>Close button label</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

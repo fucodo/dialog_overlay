@@ -1,0 +1,11 @@
+mod.wizards.newContentElement.wizardItems.special {
+  elements.dialog_overlay {
+    iconIdentifier = content-dialog-overlay
+    title = LLL:EXT:dialog_overlay/Resources/Private/Language/locallang_db.xlf:tt_content.CType.dialog_overlay.title
+    description = LLL:EXT:dialog_overlay/Resources/Private/Language/locallang_db.xlf:tt_content.CType.dialog_overlay.description
+    tt_content_defValues {
+      CType = dialog_overlay
+    }
+  }
+  show := addToList(dialog_overlay)
+}
